@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://northpointwebworks.pages.dev/sitemap.xml
